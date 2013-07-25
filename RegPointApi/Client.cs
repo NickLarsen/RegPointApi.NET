@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using RestSharp;
 
 namespace RegPointApi
 {
+    [ComVisible(false)]
     public class Client : IClient
     {
         // url structure

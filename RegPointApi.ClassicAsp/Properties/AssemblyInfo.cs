@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RegPointApi")]
+[assembly: AssemblyTitle("RegPointApi.ClassicAsp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RegPointApi")]
+[assembly: AssemblyProduct("RegPointApi.ClassicAsp")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(true)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("43143fac-f804-47c8-b93f-3b9a3b1a34cb")]
+[assembly: Guid("571d3938-b220-4341-a293-408bba0c79b0")]
 
 // Version information for an assembly consists of the following four values:
 //

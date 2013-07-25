@@ -1,8 +1,10 @@
-﻿using System.Runtime.Serialization;
+﻿using System.Runtime.InteropServices;
+using System.Runtime.Serialization;
 
 namespace RegPointApi
 {
     [DataContract]
+    [ComVisible(false)]
     public class AddData<T> : IStatus
     {
         [DataMember] public string status { get; set; }

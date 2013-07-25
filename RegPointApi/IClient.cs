@@ -1,7 +1,9 @@
 ﻿using System.Collections.Generic;
+using System.Runtime.InteropServices;
 
 namespace RegPointApi
 {
+    [ComVisible(false)]
     public interface IClient
     {
         Response<AddAddOnData<AddOn>> AddAddOn(AddOn entity);

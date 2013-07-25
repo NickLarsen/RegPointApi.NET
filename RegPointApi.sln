@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegPointApi", "RegPointApi\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegPointApi.Tests", "RegPointApi.Tests\RegPointApi.Tests.csproj", "{CBC21AF4-EC83-455E-9745-B77737CE9908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegPointApi.ClassicAsp", "RegPointApi.ClassicAsp\RegPointApi.ClassicAsp.csproj", "{55FCDAB8-B9F7-4D66-BED4-1C31B546174A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{CBC21AF4-EC83-455E-9745-B77737CE9908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC21AF4-EC83-455E-9745-B77737CE9908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC21AF4-EC83-455E-9745-B77737CE9908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FCDAB8-B9F7-4D66-BED4-1C31B546174A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FCDAB8-B9F7-4D66-BED4-1C31B546174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FCDAB8-B9F7-4D66-BED4-1C31B546174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FCDAB8-B9F7-4D66-BED4-1C31B546174A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
